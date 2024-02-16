@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header section styles */
+header {
+    background-image: url("../images/Banner\ Image.png");
+    max-width: 1320px;
+    max-height: 600px;
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+
+.banner-content {
+    text-align: center;
+    padding-top: 127px;
+    height: 650px;
+    color: #fff;
+}
+.banner-small-title {
+    font-size: 32px;
+    padding-left: 300px;
+    padding-right: 200px;
+}
+.banner-large-title {
+    font-size: 72px;
+    font-weight: 900;
+    padding-left: 344px;
+    padding-right: 342px;
+}
+/* Discount section */
+
+.discount {
+    text-align: center;
+    margin-top: 120px;
+}
+.discount-amount {
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+        
+  
