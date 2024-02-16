@@ -102,7 +102,40 @@ header {
     font-weight: 700;
     text-transform: uppercase;
 }
-        
+
+.place{
+    text-align: center;
+    margin-top: 120px;
+    width: 1320px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 110px 0;
+
+}        
+.place-description {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+
+.place-highlight {
+    color: #f00;
+}
+.join-button {
+    padding: 16px 32px;
+    gap: 10px;
+    border-radius: 10px;
+    background: #f00;
+    border: none;
+}
+  
+
+
   
   
   
