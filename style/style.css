@@ -45,7 +45,20 @@ header {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-  }
+}
+.discount-title {
+    margin-top: 48px;
+}
+.discount-deal {
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+  
+  
+} 
+   
+  
+  
   
         
   
