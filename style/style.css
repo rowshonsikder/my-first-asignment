@@ -219,24 +219,63 @@ header {
 /* start work on holiday section */
 .holiday{
     width: 1320px;
-    margin: 100px auto;
+    
+    
+    margin: 100px auto ;
+    background-color: red;
+
 }
 
 .holiday-title{
     text-align: center;
     width: 60%;
-    margin: 0 auto;
+    margin: 0px auto;
+    
 }
 
 .holiday-pic{
-    margin-top: 60px;
+     margin-top: 60px; 
+     margin-top: 0px; 
+    
+     border: 5px solid red;
+    
 }
+
 .holiday-pic img{
     width: 100%;
 }
+
+.holiday-heading{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+
+} 
+.holiday-discount{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+       
+
+}  
+.holiday-description{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; 
+
+}  
   
-  
-  
-  
-        
+/*holiday area end   */
+
+/* Gift area start  */
+
+
   
