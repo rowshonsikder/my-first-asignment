@@ -214,9 +214,27 @@ header {
     margin-top: 30px;
 }
 
-/* finish coming soon offer  */
+/* finished coming soon offer  */
 
+/* start work on holiday section */
+.holiday{
+    width: 1320px;
+    margin: 100px auto;
+}
 
+.holiday-title{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.holiday-pic{
+    margin-top: 60px;
+}
+.holiday-pic img{
+    width: 100%;
+}
+  
   
   
   
